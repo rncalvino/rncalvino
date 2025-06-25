@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 👨‍💻 I'm a Software Engineer and Technical Leader with almost 15 years of experience in global IT projects across multiple industries.
 
