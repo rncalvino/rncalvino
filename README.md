@@ -7,6 +7,6 @@
 - Designing and delivering scalable software systems
 - Bridging the gap between technical execution and business goals
 
-🌍 I'm an EU citizen and open to relocation or remote opportunities, especially where I can contribute to impactful technology and help teams grow.
+🌍 I'm an EU citizen and open to remote opportunities, especially where I can contribute to impactful technology and help teams grow.
 
 Let's connect and build something great.
